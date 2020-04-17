@@ -1,0 +1,5 @@
+pow ("Masukan nama kamu"):
+    pow (x,y):
+    
+    Retrun x**y ( x to the power or y):
+    (END)
